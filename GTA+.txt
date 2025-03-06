@@ -1,0 +1,7 @@
+{$CLEO .cs}
+
+nop 
+create_car_generator 1@ = init_car_generator 562 color 147 255 force_spawn 1 alarm 1 door_lock 0 min_delay 0 max_delay 10000 at 2087.6267 -1316.8503 23.6568 angle 172.9198
+switch_car_generator 1@ cars_to_generate_to 562
+save_this_custom_script 
+terminate_this_custom_script 
